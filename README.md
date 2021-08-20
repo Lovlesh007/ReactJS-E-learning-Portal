@@ -56,3 +56,18 @@ Added to cart
 
 Cart
 ![REPO list](Readme_Screenshots///cart.PNG)
+
+Checkout
+![REPO list](Readme_Screenshots///checkout.PNG)
+
+Wishlist
+![REPO list](Readme_Screenshots///wishlist.PNG)
+
+Profile
+![REPO list](Readme_Screenshots///profile.PNG)
+
+
+
+
+
+
