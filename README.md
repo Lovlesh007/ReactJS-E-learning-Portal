@@ -66,7 +66,8 @@ Wishlist
 Profile
 ![REPO list](Readme_Screenshots///profile.PNG)
 
-
+Profile
+![REPO list](Readme_Screenshots///already_added_to_cart.PNG)
 
 
 
