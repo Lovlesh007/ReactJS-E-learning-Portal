@@ -1,0 +1,10 @@
+{
+"all_courses":[
+    {"course_id":1,"instructor_name":"George Adamson","course_name":"Responsive Design Course XYZ How to design responsive templates","tags":["redux","reacthooks","reactthunk"],"course_title":"XYZ","discountedPrice":400,"price":600},
+    {"course_id":2,"instructor_name":"Richard Atkinson","course_name":"Become a JavaScript Pro MNO with these valuable skills.","tags":["redux","reacthooks","reactthunk"],"course_title":"MNO","discountedPrice":300,"price":700},
+    {"course_id":3,"instructor_name":"Leslie Alcock","course_name":"Master the fundamentals of React PQR and Redux with this Reach Training","tags":["redux","reacthooks","reactthunk"],"course_title":"PQR","discountedPrice":200,"price":600},
+    {"course_id":4,"instructor_name":"Russell Ayrton","course_name":"Responsive Design Course XYZ How to design responsive templates","tags":["redux","reacthooks","reactthunk"],"course_title":"XYZ","discountedPrice":500,"price":600},
+    {"course_id":5,"instructor_name":"Rober Patricia","course_name":"Become a JavaScript Pro with MNO these valuable skills.","tags":["redux","reacthooks","reactthunk"],"course_title":"MNO","discountedPrice":300,"price":650},
+    {"course_id":6,"instructor_name":"Thomas Bateman","course_name":"Master the fundamentals of React PQR and Redux with this Reach Training","tags":["react","redux","reacthooks"],"course_title":"PQR","discountedPrice":450,"price":700}
+    ]
+}

@@ -1,0 +1,207 @@
+.container1_detail {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+  }
+  .courseDescription_detail {
+    background-color: black;
+    width: 100%;
+    /* padding-left: 15%; */
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  
+  .courseDescription_detail h3 {
+    color: white;
+    font-weight: 600;
+    font-size: 1.1rem;
+    width: 45%;
+    margin-bottom: 0px;
+  }
+  
+  .subtitle_detail {
+    font-weight: 300;
+    font-size: 0.9rem;
+    color: white;
+    width: 45%;
+  }
+  
+  .author_detail {
+    color: #ff9271;
+    font-weight: 300;
+    font-size: 0.8rem;
+  }
+  
+  .tagContainer_detail {
+    margin-bottom: 16px;
+    display: flex;
+    justify-content: flex-start;
+  }
+  
+  .courseDetailContainer_detail {
+    background: #ffffff 0% 0% no-repeat padding-box;
+    border: 1px solid #e0e0e0;
+    margin-top: 16px;
+    padding: 12px;
+    width: 58%;
+  }
+  
+  .courseDetail_detail {
+    font-weight: 600;
+    font-size: 0.9rem;
+  }
+  
+  .detail_detail {
+    font-weight: 300;
+    font-size: 0.9rem;
+    color: black;
+  }
+   
+  /* right side */
+  
+  .container2_detail {
+    width: 87%;
+    display: flex;
+    flex-direction: row;
+  }
+  
+  .previewContainer_detail {
+    width: 38%;
+    display: flex;
+    flex-direction: column;
+    margin-left: 1.5%;
+  }
+  
+  .preview_detail {
+    width: 100%;
+    height: 85%;
+    background-color: black;
+    border: 1px solid #e0e0e0;
+    margin-top: -140px;
+  }
+  
+  .hours_detail {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  
+  .currentPrice_detail {
+    flex: 6.9%;
+    text-align: left;
+    letter-spacing: 0px;
+    color: #080808;
+    opacity: 1;
+    margin-right: 2%;
+    font-size: 1.4rem;
+    font-weight: bold;
+    margin-top: 6px;
+  }
+  
+  .price_detail {
+    flex: 6.9%;
+    text-align: left;
+    text-decoration: line-through;
+    font: normal normal 300 Montserrat;
+    font-size: 1rem;
+    color: #080808;
+    margin-right: 2%;
+    margin-top: 6px;
+  }
+  
+  .hoursleft_detail {
+    color: #d13030;
+    font-weight: 300;
+    font-size: 1rem;
+    margin-left: 8px;
+    margin-top: 4px;
+  }
+  
+  .priceContainer_detail {
+    background: #ffffff 0% 0% no-repeat padding-box;
+    border: 1px solid #e0e0e0;
+    margin-top: 16px;
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-bottom: 16px;
+  }
+  
+  .btnContainer_detail {
+    width: 100%;
+    display: inline-flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+  
+  .pageSubtitle_detail {
+    width: 85%;
+    font-weight: 300;
+    color: #0f1317;
+    font-size: 1rem;
+    text-align: start;
+    margin-top: 32px;
+  }
+  
+  .bottom_detail {
+    height: 32px;
+  }
+  
+  .btn_detail {
+    background: #e25b32 0% 0% no-repeat padding-box;
+    border-radius: 4px;
+    font: normal normal medium Montserrat;
+    color: white;
+    font-size: 0.6rem;
+    width: 78px;
+    height: auto;
+    border-style: none;
+    margin-right: 12px;
+    outline: none;
+  }
+  
+  .white_detail {
+    background: white 0% 0% no-repeat padding-box;
+    border-radius: 4px;
+    font: normal normal medium Montserrat;
+    color: black;
+    font-size: 0.6rem;
+    width: 78px;
+    height: auto;
+    border-style: none;
+    margin-right: 12px;
+    outline: none;
+  }
+  .btn_detail1 {
+    background-color: #ff6738;
+    border-radius: 4px;
+    font-size: 0.7em;
+    color: white;
+    border: none;
+    font-weight: 600;
+    padding: 0.7rem 0.5rem;
+    cursor: pointer;
+  }
+  
+  .btn_detail1:hover {
+    background-color: #fc4912;
+  }
+  
+  .white_detail1 {
+    background-color: white;
+    border-radius: 4px;
+    font-size: 0.7em;
+    color: #ff6738;
+    border: none;
+    font-weight: 600;
+    padding: 0.7rem 0.5rem;
+    border: 1px solid #ff6738;
+    cursor: pointer;
+  }
+  
+  .white_detail1:hover {
+    background-color: #e4ddda;
+  }
+  

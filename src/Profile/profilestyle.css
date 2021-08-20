@@ -1,0 +1,169 @@
+.main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .img_profile {
+    width: 100%;
+  }
+  
+  .container1_profile{
+    width: 87%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 24px;
+  }
+  
+  .sidebar_image_profile {
+    width: 16%;
+  }
+  
+  .inputContainer_profile {
+    width: auto;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+
+  }
+  
+  .formContainer_profile {
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    justify-content: right;
+    background: #ffffff 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 6px #00000029;
+    padding: 16px;
+  }
+  
+  .label1_profile {
+    font-size: 0.6rem;
+    font-weight: 500;
+    color: #454545;
+    margin-top: 12px;
+  }
+  
+  /* Radio Button */
+  
+  .radioHorizontal_profile {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+  }
+  
+  .bottomContainer_profile {
+    border: 1px solid #e0e0e0;
+    padding: 16px;
+    margin-top: 16px;
+    margin-bottom: 16px;
+  }
+  .btn_profile {
+    background-color: #ff6738;
+    border-radius: 4px;
+    font-size: 80%;
+    color: white;
+    border: none;
+    font-weight: 600;
+    padding: 0.7rem 2rem;
+    cursor: pointer;
+    width: auto;
+   
+  }
+  .btn-div_profile{
+    display: flex;
+    justify-content: flex-end;
+  }
+  .btn_profile:hover {
+    background-color: #fc4912;
+  }
+
+  .label_profile {
+    font-size: 0.6rem;
+    font-weight: 500;
+    color: #454545;
+    margin-top: 12px;
+  }
+  .box_profile {
+    display: flex;
+    flex-direction: column;
+    padding: 6px;
+  }
+  
+  .label_profile {
+    font-size: 0.6rem;
+    font-weight: 500;
+    color: #454545;
+  }
+  
+  .input1_profile {
+    background-color: #f7f8ff;
+    border: none;
+    color: #848484;
+    font-weight: 500;
+    font-size: 0.7rem;
+    padding: 6px;
+    margin-top: 2px;
+    width: 250px;
+  }
+  .container_profile {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+  }
+  
+  .label1_profile {
+    text-align: left;
+    font-size: 0.7rem;
+    letter-spacing: 0px;
+    color: #242222;
+  }
+  .box_profile {
+    display: flex;
+    flex-direction: column;
+    padding: 6px;
+  }
+  
+  .label_profile {
+    font-size: 0.6rem;
+    font-weight: 500;
+    color: #454545;
+  }
+  
+  .input_profile {
+    background-color: #f7f8ff;
+    border: none;
+    color: #848484;
+    font-weight: 500;
+    font-size: 0.7rem;
+    padding: 6px;
+    margin-top: 2px;
+    width: 50%;
+    height: 100px;
+  }
+  
+.label_profile,.label1_profile{
+  display: flex;
+  justify-content: flex-start;
+}
+.btn_profile_disabled{
+  background-color:gray;
+  border-radius: 4px;
+  font-size: 80%;
+  color: white;
+  border: none;
+  font-weight: 600;
+  padding: 0.7rem 2rem;
+  cursor: pointer;
+  width: auto;
+}
+
+.error_message{
+  font-size: 60%;
+  text-align: left;
+  color: #fc4912;
+}
