@@ -48,5 +48,11 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 Screenshots!
 
+Home Page <br>
+![REPO list](Readme_Screenshots///home_page.PNG)
+
+Added to cart
 ![REPO list](Readme_Screenshots///added_to_cart.PNG)
 
+Cart
+![REPO list](Readme_Screenshots///cart.PNG)
